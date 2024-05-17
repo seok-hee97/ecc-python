@@ -7,8 +7,11 @@ Elliptic Curve Cryptography implementation in Python
 - ECDSA : Elliptic Curve Digital Signature Algorithm (ECDSA) in Python 
 - EdDSA : Edwards Curve Digital Signature Algorithm (EdDSA)
 - Order-Of-ECG : Order of An Elliptic Curve Group In Python From Scratch
+- ECIES : Elliptic Curve Integrated Encryption Scheme
+- Bitcoin.py :
 
 ## Reference
+- [(Bitcoin.py)A Step By Step Bitcoin Address Example](https://sefiks.com/2018/03/26/a-step-by-step-bitcoin-address-example/)
 - [Cryptographic Engineering Bootcamp in Python](https://www.youtube.com/playlist?list=PLsS_1RYmYQQFPOGVFo_hiSkxC0mEOejku)
 - [learn how to code elliptic curve cryptography](https://medium.com/coinmonks/learn-how-to-code-elliptic-curve-cryptography-a952dfdc20ab)
 - [pycryptodome lib(ecc)](https://pycryptodome.readthedocs.io/en/v3.14.0/src/public_key/ecc.html)
