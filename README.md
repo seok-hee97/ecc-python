@@ -20,3 +20,4 @@ Elliptic Curve Cryptography implementation in Python
 - [Elliptic Curve Diffie-Hellman (ECDH) Explained](https://www.youtube.com/watch?v=445Opx6U3Co&list=PLsS_1RYmYQQEun1MTwmvbXurqHIJrFJ0e&index=10)
 - [Elliptic Curve Diffie-Hellman(ECDH) in Python From Scratch](https://www.youtube.com/watch?v=445Opx6U3Co&list=PLsS_1RYmYQQEun1MTwmvbXurqHIJrFJ0e&index=10)
 - [The Math Behind Elliptic Curves in Koblitz Form](https://sefiks.com/2016/03/13/the-math-behind-elliptic-curves-over-binary-field/#google_vignette)
+- [Wikipedia Homomoriphic Encryption](https://en.wikipedia.org/wiki/Homomorphic_encryption)
